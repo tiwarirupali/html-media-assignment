@@ -1,0 +1,12 @@
+#covert an integer to string
+
+a=34
+type(a)
+int
+a=str(a)
+type(a)
+str
+
+#where we assign varriable a, a value of 34. which is a type of integer.
+to convert the type of a to string using the keyword str.
+

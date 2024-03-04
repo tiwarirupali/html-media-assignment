@@ -1,0 +1,14 @@
+#convert decimal to binary
+
+bin(10)
+'0b1010'
+
+bin(20)
+'0b10100'
+
+bin(30)
+'0b11110'
+
+#where 10,20,30 are decimal number. while converting to binary using keyword bin
+the binary values of these numbers are as follows'0b1010','0b10100','0b11110'.
+

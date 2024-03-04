@@ -1,0 +1,12 @@
+#convert a tuple to list
+
+x=(2,4,76,5)
+type(x)
+tuple
+
+x=list(x)
+type(x)
+list
+
+#x which contains a tuple value is now converted from tuple to list using
+ list keyword.

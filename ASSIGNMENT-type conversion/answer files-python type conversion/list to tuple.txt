@@ -1,0 +1,13 @@
+#convert a list tu tuple
+
+a=[5,7,3,3+5j]
+type(a)
+list
+
+#list contain numbers 5,7,3 and a complex number 3+5j
+
+a=tuple(a)
+type(a)
+tuple
+
+#a is converted from list to tuple.

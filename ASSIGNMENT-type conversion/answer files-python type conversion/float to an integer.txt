@@ -1,0 +1,9 @@
+#convert a float to integer
+
+a=34.78
+type(a)
+float
+a=int(a)
+type(a)
+int
+

@@ -1,0 +1,13 @@
+#convert an integer to floating-point number
+
+a=10
+type(a)
+int
+
+#a is an integer 
+
+a=float(a)
+float
+
+#type of a is converted from an integer to float.
+

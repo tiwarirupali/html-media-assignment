@@ -1,0 +1,14 @@
+#convert a non-zero number to boolean
+#boolean contain value of True or False.
+
+a=2
+type(a)
+int
+a=bool(a)
+type(a)
+bool
+
+bool(a)
+True
+
+#number is converted from non-zero number to a boolean number.
