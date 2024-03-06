@@ -1,0 +1,27 @@
+#calculate the sum, difference, product, and quotient of two numbers
+
+a & b are two varriables in which we have assigned values 2 and 5 respectively.
+using operators like sum(*), difference(-), product(*) and quotient(/) we will do the calculation.
+
+a=2
+b=5
+
+#sum(+) operator
+x=a+b
+x
+7 (7 is the sum using + operator)
+
+#difference(-) operator
+y=b-2
+y
+3 (3 is the difference using - operator)
+
+#product(*) operator
+z=a*b
+z
+10 (10 is the product using * operator)
+
+#sum(/) operator
+d=a/b
+d
+0.4 (0.4 is the quotient using / operator)

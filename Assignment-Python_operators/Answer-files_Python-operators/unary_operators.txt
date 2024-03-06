@@ -1,0 +1,16 @@
+#use unary operators to change the sign of a number
+unary operators acts on a single operand. 
+(+)unary plus, (-)unary minus
+
+x=10 (x is variable and 10 is assigned to x)
+x
+10
+
+#(unary minus)
+-x
+-10
+
+#(unary plus)
++x
++10
+

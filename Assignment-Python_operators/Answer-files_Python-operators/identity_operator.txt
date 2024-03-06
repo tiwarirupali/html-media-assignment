@@ -1,0 +1,19 @@
+#check the identity of variables.
+(compare the memory location of two objects and gives
+boolean values(True,False))
+
+#identity operators(is, is not)
+
+a=10 (assigned 10 to variable a)
+b=20 (assigned 20 to variable b)
+
+#is operator
+a is b
+False
+
+#is not operator
+a is not b
+True
+
+
+

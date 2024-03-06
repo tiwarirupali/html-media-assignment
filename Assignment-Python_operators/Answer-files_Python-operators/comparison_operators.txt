@@ -1,0 +1,26 @@
+#compare two numbers and print the result using comparison operator.
+comparison operators compare values and gives boolean value.
+(boolean value is True or False)
+
+various types of comparion operators are as follows:(==,!=,>,<,>=,<=)
+
+a=10 (10 assigned to a)
+b=20 (20 assigned to b)
+
+a==b (a eqauls to b?)
+False (no)
+
+a!=b (a is not equals to b?)
+True (yes)
+
+a>b (a is more than b?)
+False (no)
+
+a<b (a is less than b?)
+True (yes)
+
+a>=b (a is more & equals to b?)
+False (no)
+
+a<=b (a is less & equals to b?)
+True (yes)

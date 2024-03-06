@@ -1,0 +1,23 @@
+#check conditions using logical operators
+logical operator check conditions and give values.
+
+a=10
+b=20
+
+#And operator
+a and b 
+20
+
+#or operators
+a or b
+10
+
+#not operator
+not a
+False
+
+x= not False
+x
+False
+
+

@@ -1,0 +1,19 @@
+#perform bitwise operations on any two integers.
+bitwise opeartor do operations at bit level.
+
+#(& bitwise AND)
+10&10
+10
+
+#(| bitwise OR)
+10|10
+10
+
+#(~ bitwise not)
+~10
+-11
+
+#(^ bitwise XOR)
+10^10
+0
+

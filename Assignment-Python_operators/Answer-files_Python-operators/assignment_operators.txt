@@ -1,0 +1,19 @@
+#perform various assignment operations on a variable.
+assignment operators(=,+=,*=,/=)
+assigning some value, define some value or reassigning the value to any varriable.
+
+a=10
+a
+10 (assigning 10 to varriable a)
+
+a+=10
+a
+20 (reassigning the value to a by adding it)
+
+a*=10
+a
+200 (reassigning the value to a by multiplying it)
+
+a/=10
+a
+20 (reassigning value to a by dividing it)

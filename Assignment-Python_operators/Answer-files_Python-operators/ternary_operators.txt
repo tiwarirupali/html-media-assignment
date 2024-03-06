@@ -1,0 +1,15 @@
+#use the ternary operator to assign values based on conditions
+
+#a and b are two variables.
+a=10
+b=20
+
+#assigning value to min based on if/else conditions.
+min= a if a < b else b
+min
+10
+
+#assigning value to max based on if/else conditions.
+max= b if b > a else a
+max
+20
