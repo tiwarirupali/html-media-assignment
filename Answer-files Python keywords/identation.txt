@@ -1,0 +1,10 @@
+#indentation important in python.
+
+Python automatically give space whenever it's needed.
+
+if 30>10:
+    print("greater")
+greater
+
+#enter in first line after :, curzor will automatically comes
+it's place. 

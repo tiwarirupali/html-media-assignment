@@ -1,0 +1,14 @@
+#statement and expression
+#statement is used to assigned value to a variable.
+
+a=3
+a
+3
+
+#expression is a a combination of values, variables, 
+and operators that evaluates to a single value.
+
+a=3
+b=4
+a+b(expression)
+7

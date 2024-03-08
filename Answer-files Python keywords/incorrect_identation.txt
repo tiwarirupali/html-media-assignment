@@ -1,0 +1,10 @@
+#if indentation is incorrect in python.
+
+if 30>10:
+print("greater")
+Cell In[4], line 2
+    print("greater")
+    ^
+IndentationError: expected an indented block after 'if' statement on line 1
+
+#if identation is incorrect it'll through error.

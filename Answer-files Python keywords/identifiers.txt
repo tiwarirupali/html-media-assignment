@@ -1,0 +1,18 @@
+#Describe the rules for defining identifiers in python with examples.
+Python Identifier is the name we give to identify a variable, function, class, module or other object.
+That means whenever we want to give an entity a name, that's called identifier.
+They are case-sensitive.
+"a" and "A" are not the same.
+They begin with an alphabetic character or an underscore (_).
+They include any combination of alphabetic characters, numerals, and underscore characters. ...
+All characters are significant.
+
+#a="Rupali"
+type(a)
+str
+
+type(A)
+error: name 'A' is not defined.
+
+a
+'Rupali'
