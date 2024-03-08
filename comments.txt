@@ -1,0 +1,26 @@
+#Comments in python, and why are they useful with an example.
+
+Comments can be used to explain Python code.
+Comments can be used to make the code more readable.
+Comments can be used to prevent execution when testing code.
+
+using # or single line comment.
+#print("hello world") to print the statement
+print("hello world")
+hello world
+
+using # in every line for multiline comment.
+#This is a comment
+#written in
+#more than just one line
+print("Hello, World!")
+Hello, World!
+
+using """ """ to start and end the multiline comment.
+"""
+This is a comment
+written in
+more than just one line
+"""
+print("Cheers")
+Cheers
